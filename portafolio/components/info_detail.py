@@ -4,7 +4,6 @@ from portafolio.components.icon_button import icon_button
 from portafolio.data import Info
 from portafolio.styles.styles import IMAGE_HEIGHT, EmSize, Size
 
-
 def info_detail(info: Info) -> rx.Component:
     return rx.flex(
         rx.hstack(
@@ -17,21 +16,20 @@ def info_detail(info: Info) -> rx.Component:
                     size=Size.SMALL.value,
                     color_scheme="gray"
                 ),
-                rx.cond(
-                    info.technologies,
-                    rx.flex(
-                        *[
-                            rx.badge(
-                                rx.box(class_name=technology.icon),
-                                technology.name,
-                                color_scheme="gray"
-                            )
-                            for technology in info.technologies
-                        ],
-                        wrap="wrap",
-                        spacing=Size.SMALL.value
-                    )
-                ),
+                #Inicio donde se cambio por el de despues
+                rx.flex(
+    *[
+        rx.badge(
+            rx.box(class_name=technology.icon),
+            technology.name,
+            color_scheme="gray"
+        )
+        for technology in info.technologies
+    ],
+    wrap="wrap",
+    spacing=Size.SMALL.value
+) if info.technologies else rx.fragment()
+,
                 rx.hstack(
                     rx.cond(
                         info.url != "",

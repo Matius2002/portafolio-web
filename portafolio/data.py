@@ -10,9 +10,12 @@ class Media:
 
 
 class Technology:
-    def __init__(self, icon, name):
-        self.icon = icon
+    def __init__(self, name: str, icon: str):
         self.name = name
+        self.icon = icon
+
+    def __str__(self):
+        return self.name  # o cualquier representación string
 
 
 class Info:
