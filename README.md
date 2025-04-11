@@ -23,6 +23,6 @@ Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acc
 
 # Creditos
 
-Este proyecto está inspirado en el trabajo de [@mouredev] (https://github.com/mouredev), quien comparte excelentes retos de programación.
+Este proyecto está inspirado en el trabajo de [@mouredev](https://github.com/mouredev), quien comparte excelentes retos de programación.
 
 
