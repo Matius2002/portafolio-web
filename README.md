@@ -15,10 +15,14 @@ Este es un proyecto de portafolio personal desarrollado con un enfoque minimalis
 
 Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acceder al proyecto desde http://localhost:3000.
 
-pip install reflex
+- pip install reflex
 
-reflex init
+- reflex init
 
-reflex run
+- reflex run
 
--
+# Creditos
+
+Este proyecto está inspirado en el trabajo de [@mouredev] (https://github.com/mouredev), quien comparte excelentes retos de programación.
+
+
