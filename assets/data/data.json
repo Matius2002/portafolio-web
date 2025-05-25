@@ -1,18 +1,18 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
+    "title": "MateoDev | Portafolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Mateo Alejandro Mora Hernandez",
+    "skill": "Ingeniero de sistemas, Desarrollador web y Arquitecto en proceso",
+    "location": "Girardot, Cundinamarca, Colombia",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "mateoalejandromorahernandez@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Matius2002",
+        "likedin": "https://www.linkedin.com/in/mateo-alejandro-mora-hern%C3%A1ndez-49a2b520a"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un ingeniero de sistemas de 22 de edad con experiencia en el desarrollo web, especialmente en el área Backend, y con un enfoque creciente en el análisis de datos. Mi stack principal incluye: He trabajado en el desarrollo de software y soporte TI para el sector de la salud y como freelance, desempeñándome también como administrador de bases de datos. Durante mis cinco años de formación universitaria, he fortalecido tanto mis habilidades técnicas como mi desarrollo personal y profesional, participando en diversos proyectos que han consolidado mi pasión por la tecnología y la mejora continua.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
