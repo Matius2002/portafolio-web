@@ -54,32 +54,44 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
+            "title": "Snake Game",
+            "subtitle": "Este juego juego fue creado por HTML, CSS y JavaScript",
             "description": "Herramienta para hacer rico a otras personas.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML5"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://matius2002.github.io",
+            "github": "https://github.com/Matius2002/Matius2002.github.io"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "Proyecto en proceso...",
+            "subtitle": "Mi obra maestra en proceso...",
+            "description": "Este es el espacio del proyecto en proceso...",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
                 }
             ],
             "image": "/project_2.jpg",
@@ -90,17 +102,25 @@
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
+            "title": "Universidad Piloto de Colombia",
             "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
+            "description": "Aprendí muchas cosas...",
+            "date": "Indeterminado",
+            "certificate": "https://digisigncol-workflows-prod.s3.amazonaws.com/e096e36c-1004-4334-98d6-f9a611dfced1/4cd1271c-a930-4d3f-be23-6432d8481a71/52271_MATEO%20ALEJANDRO%20MORA%20HERNANDEZ_1.pdf?AWSAccessKeyId=AKIATQJKTZODH2G6437L&Expires=1748193797&Signature=BAAcK7nfesoz0qJo5X1XHYJhplI%3D"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Servicio Nacional de Aprendizaje(SENA)",
+            "subtitle": "Centro de formacion publico",
+            "description": "Aprendí muchas cosas...",
             "date": "Indeterminado",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
+            "title": "Institución Educativa Policarpa Salavarrieta",
+            "subtitle": "Colegio",
+            "description": "Aprendí más cosas",
             "date": "Indeterminado",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         }
