@@ -4,7 +4,7 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Mateo Alejandro Mora Hernandez",
-    "skill": "Ingeniero de sistemas, Desarrollador web y Arquitecto en proceso",
+    "skill": "Ingeniero de Sistemas, Desarrollador Web FullSctak, DevOps, Cloud y Arquitecto de Software en proceso",
     "location": "Girardot, Cundinamarca, Colombia",
     "media": {
         "email": "mateoalejandromorahernandez@gmail.com",
@@ -12,23 +12,31 @@
         "github": "https://github.com/Matius2002",
         "likedin": "https://www.linkedin.com/in/mateo-alejandro-mora-hern%C3%A1ndez-49a2b520a"
     },
-    "about": "Soy un ingeniero de sistemas de 22 de edad con experiencia en el desarrollo web, especialmente en el área Backend, y con un enfoque creciente en el análisis de datos. Mi stack principal incluye: He trabajado en el desarrollo de software y soporte TI para el sector de la salud y como freelance, desempeñándome también como administrador de bases de datos. Durante mis cinco años de formación universitaria, he fortalecido tanto mis habilidades técnicas como mi desarrollo personal y profesional, participando en diversos proyectos que han consolidado mi pasión por la tecnología y la mejora continua.",
+    "about": "Soy Ingeniero de Sistemas egresado de la Universidad Piloto de Colombia, con formacion tecnica en sistemas y 23 años de edad. Vivo en Colombia y me desempeno como desarrollador web Fullstack, con enfoque en tecnologias modernas tanto en frontend como backend. Actualmente, me estoy formando en areas de DevOps / Cloud e iniciando mi camino como Arquitecto de Software, con el objetivo de disenar y construir soluciones escalables y eficientes.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-react-plain",
+            "name": "React"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-csharp-plain",
+            "name": ".NET"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-typescript-plain",
+            "name": "TypeScript"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "Node.js"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
             "icon": "devicon-python-plain",
