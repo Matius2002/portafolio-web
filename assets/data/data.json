@@ -46,25 +46,25 @@
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Freelance",
+            "subtitle": "Desarrollador FullSctak y Soporte Técnico",
+            "description": "Diseñe y desarrolle aplicaciones de escritorio personalizadas realizadas mediante Spring Boot(Java), creación de páginas web estáticas con enfoque en funcionalidad, limpio y accesibilidad mediante (HTML5, CSS3 y JavaScript), ademas asesoramiento al cliente durante todo el proceso de desarrollo: análisis de requerimientos, prototipado, entrega y soporte técnico posterior.",
+            "date": "2023 a 2024"
         },
         {
             "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Practicante Universitario",
+            "subtitle": "Desarrollo de Software y Soporte TI N2",
+            "description": "Participe en el desarrollo de un sistema de novedades tecnológicas usando el siguiente Stack: Angular para el frontend, Spring Boot para la lógica backend, Tailwind CSS para el diseño responsivo y estético y PostgresSQL como sistema gestor de bases de datos. El sistema permitio el registro, seguimiento y gestión de novedades para el área de sistemas.",
+            "date": "2024"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
+            "icon": "gamepad",
             "title": "Snake Game",
-            "subtitle": "Este juego juego fue creado por HTML, CSS y JavaScript",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "subtitle": "Este juego juego fue creado con el fin de reforzar conocimientos y logica.",
+            "description": "Herramienta para jugar un rato y recordar los juegos retro, el clasico del juego de la serpiente.",
             "technologies": [
                 {
                     "icon": "devicon-html5-plain",
@@ -103,34 +103,34 @@
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg",
+            "github": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg"
         }
     ],
     "training": [
         {
             "icon": "backpack",
             "title": "Universidad Piloto de Colombia",
-            "subtitle": "Una escuela",
-            "description": "Aprendí muchas cosas...",
-            "date": "Indeterminado",
-            "certificate": "https://digisigncol-workflows-prod.s3.amazonaws.com/e096e36c-1004-4334-98d6-f9a611dfced1/4cd1271c-a930-4d3f-be23-6432d8481a71/52271_MATEO%20ALEJANDRO%20MORA%20HERNANDEZ_1.pdf?AWSAccessKeyId=AKIATQJKTZODH2G6437L&Expires=1748193797&Signature=BAAcK7nfesoz0qJo5X1XHYJhplI%3D"
+            "subtitle": "Universidad",
+            "description": "Ingeniería de Sistemas. Universidad Piloto de Colombia - Julio 2019 - Marzo 2025. Durante mi formación profesional adquirí competencias sólidas en desarrollo de software, bases de datos, arquitectura de sistemas y gestión de proyectos. Desarrollé habilidades técnicas en tecnologías como Angular, Spring Boot, Java, TypeScript, HTML/CSS, PostgreSQL y herramientas de control de versiones como Git. Mi proyecto de grado, TuritExplor, consistió en una plataforma web para promocionar zonas turísticas del municipio de Girardot, integrando mapas interactivos, imágenes, descripciones, opiniones de usuarios, calificaciones, y un panel administrativo para la gestión de contenido por parte de usuarios con rol de administrador.",
+            "date": "2019 - 2025",
+            "certificate": "https://drive.google.com/file/d/1RVlWi7sj6WKNlFqt5K2gnwQ8lVpHP_1z/view?usp=sharing"
         },
         {
             "icon": "graduation-cap",
             "title": "Servicio Nacional de Aprendizaje(SENA)",
             "subtitle": "Centro de formacion publico",
-            "description": "Aprendí muchas cosas...",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "description": "Durante mi formación como Técnico en Sistemas en el SENA, adquirí conocimientos sólidos en instalación, configuración y mantenimiento de equipos de cómputo, redes básicas y soporte técnico. Participé en prácticas orientadas a la solución de problemas informáticos, fortaleciendo mis habilidades en diagnóstico de fallas, manejo de software y atención al usuario. Esta experiencia me permitió desarrollar una base técnica sólida y un enfoque proactivo para resolver retos tecnológicos.",
+            "date": "2017 - 2018",
+            "certificate": "https://drive.google.com/file/d/1CGvXsNU2HzSbrDVwvTODlZJGGk64Slyq/view?usp=sharing"
         },
         {
             "icon": "graduation-cap",
             "title": "Institución Educativa Policarpa Salavarrieta",
             "subtitle": "Colegio",
-            "description": "Aprendí más cosas",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "description": "Culminé mis estudios de secundaria en la Institución Educativa Policarpa Salavarrieta de Girardot, Cundinamarca, donde cursé los grados 6° a 11°. Durante este tiempo desarrollé competencias académicas, valores éticos y habilidades sociales que fortalecieron mi disciplina, responsabilidad y trabajo en equipo. Esta etapa formativa fue clave para mi crecimiento personal y preparación para estudios técnicos y profesionales.",
+            "date": "2013 - 2018",
+            "certificate": "https://drive.google.com/file/d/1MzI5P9hUIL4K6I0o6ujnWEsNuNm3i5l4/view?usp=sharing"
         }
     ],
     "extras": [
