@@ -5,11 +5,10 @@ Este es un proyecto de portafolio personal desarrollado con un enfoque minimalis
 ## 🛠 Tecnologías utilizadas
 
 - Python
-- Javascript
-- CSS
-- HTML5
-- Tailwind CSS
-- Shell
+- Reflex
+- JavaScript
+- HTML
+- Tailwind
 
 ## 🚀 Cómo ejecutar el proyecto
 

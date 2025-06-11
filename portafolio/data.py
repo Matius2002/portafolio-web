@@ -67,7 +67,7 @@ class Data:
         self.skill = skill
         self.location = location
         self.media = Media(**media)
-        self.about = about
+        self.about = about if isinstance(about, list) else about.split("\n\n") #Separación de texto
         self.technologies = [Technology(**tech) for tech in technologies]
         self.experience = [Info(**info) for info in experience]
         self.projects = [Info(**info) for info in projects]

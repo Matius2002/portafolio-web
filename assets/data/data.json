@@ -1,10 +1,10 @@
 {
-    "title": "MateoDev | Portafolio",
+    "title": "Portafolio",
     "description": "Soy Neo, posiblemente el mejor programador de la historia.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Mateo Alejandro Mora Hernández",
-    "skill": "Ingeniero de Sistemas, Desarrollador Web FullSctak, DevOps, Cloud y Arquitecto de Software en proceso",
+    "skill": "Ingeniero de Sistemas, Tecnico en Sistemas, Desarrollador Backend y Arquitecto de Software.",
     "location": "Girardot, Cundinamarca, Colombia",
     "media": {
         "email": "mateoalejandromorahernandez@gmail.com",
@@ -12,35 +12,27 @@
         "github": "https://github.com/Matius2002",
         "likedin": "https://www.linkedin.com/in/mateo-alejandro-mora-hern%C3%A1ndez-49a2b520a"
     },
-    "about": "Soy Ingeniero de Sistemas egresado de la Universidad Piloto de Colombia, con formación técnica en sistemas y 23 años de edad. Resido en Colombia y me desempeño como desarrollador web Fullstack, con un enfoque en tecnologías modernas tanto en el frontend como en el backend. Actualmente, me estoy formando en áreas de DevOps y Cloud, e iniciando mi camino como Arquitecto de Software, con el objetivo de diseñar y construir soluciones escalables, eficientes y de alto impacto.",
+    "about": "Soy Ingeniero de Sistemas y Técnico en Sistemas de Colombia, con una fuerte pasión por el desarrollo backend y la arquitectura de software. Actualmente me desempeño como desarrollador backend y me encuentro en proceso de formación como arquitecto de software, profundizando en el diseño de sistemas, buenas prácticas de desarrollo y automatización de procesos. Me especializo en construir soluciones robustas, escalables y seguras que resuelven problemas reales y aportan valor a los proyectos, siempre con un enfoque en la eficiencia y la calidad del código.\n\nTrabajo principalmente con tecnologías como Java, Spring Boot, y bases de datos PostgreSQL y MySQL. Tengo experiencia implementando Spring Security con JWT para garantizar la seguridad de las aplicaciones, desarrollando APIs RESTful y explorando GraphQL para una gestión más flexible de los datos. Además, aplico pruebas automatizadas con JUnit y Mockito, y utilizo herramientas como Docker, Maven y Jenkins para asegurar procesos de integración y despliegue continuo. Me motiva el aprendizaje constante y el trabajo en equipo orientado a resultados, con el objetivo de seguir creciendo como profesional en el área de arquitectura de software.**",
     "technologies": [
         {
-            "icon": "devicon-react-plain",
-            "name": "React"
+            "icon": "devicon-excel-plain",
+            "name": "Excel"
         },
         {
-            "icon": "devicon-csharp-plain",
-            "name": ".NET"
-        },
-        {
-            "icon": "devicon-typescript-plain",
-            "name": "TypeScript"
-        },
-        {
-            "icon": "devicon-tailwindcss-plain",
-            "name": "Tailwind"
-        },
-        {
-            "icon": "devicon-nodejs-plain",
-            "name": "Node.js"
-        },
-        {
-            "icon": "devicon-java-plain",
-            "name": "Java"
+            "icon": "devicon-sql-plain",
+            "name": "SQL"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-powerbi-plain",
+            "name": "Power BI"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
         }
     ],
     "experience": [
@@ -62,49 +54,58 @@
     "projects": [
         {
             "icon": "gamepad",
-            "title": "Snake Game",
-            "subtitle": "Este juego fue creado con el propósito de reforzar conocimientos y desarrollar habilidades lógicas.",
-            "description": "Herramienta diseñada para disfrutar un momento de entretenimiento y revivir los clásicos juegos retro, como el icónico juego de la serpiente.",
+            "title": "TuristExplor",
+            "subtitle": "Promoción de zonas turisticas en Girardot, Cundinamarca",
+            "description": "TuristExplor es un proyecto desarrollado como trabajo de grado bajo la metodología ágil XP, con el objetivo de promover las zonas turísticas de Girardot, Cundinamarca (Colombia). La solución incluye un mapa interactivo, sistema de comentarios y calificaciones, panel administrativo, sección de noticias y categorización de destinos. Fue construido con Angular (frontend), Spring Boot (backend), PostgreSQL y desplegado en AWS. Proyecto realizado entre 2023 y 2024 junto a mi colega Mateo Rico Hernández.",
             "technologies": [
                 {
-                    "icon": "devicon-html5-plain",
-                    "name": "HTML5"
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
                 },
                 {
-                    "icon": "devicon-css3-plain",
-                    "name": "CSS3"
+                    "icon": "devicon-spring-plain",
+                    "name": "Spring Boot"
                 },
                 {
-                    "icon": "devicon-javascript-plain",
-                    "name": "JavaScript"
+                    "icon": "devicon-tailwindcss-plain",
+                    "name": "Tailwind CSS"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
                 }
+
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matius2002.github.io",
-            "github": "https://github.com/Matius2002/Matius2002.github.io"
+            "image": "/project_3.jpg",
+            "url": "https://github.com/Matius2002/FrontTuristExplor",
+            "github": "https://github.com/Matius2002/BackTuristExplor"
         },
         {
             "icon": "bug-off",
-            "title": "Proyecto en desarrollo...",
-            "subtitle": "Mi obra maestra en progreso...",
-            "description": "Este es el espacio del proyecto en desarrollo.",
+            "title": "Junical Medical S.A.S",
+            "subtitle": "Gestión de incidencias tecnologícas",
+            "description": "Sistema Web para Gestión de Incidencias – Clínica Juncial Medical S.A.S. Diseñé e implementé un sistema web para centralizar el registro de incidencias tecnológicas, reemplazando el uso informal de WhatsApp y mejorando la trazabilidad, privacidad y comunicación. Tecnologías: Angular, Spring Boot, PostgreSQL, Tailwind CSS.",
             "technologies": [
                 {
-                    "icon": "devicon-html5-plain",
-                    "name": "HTML5"
+                    "icon": "devicon-angular-plain",
+                    "name": "Angular"
                 },
                 {
-                    "icon": "devicon-css3-plain",
-                    "name": "CSS3"
+                    "icon": "devicon-spring-plain",
+                    "name": "Spring Boot"
                 },
                 {
-                    "icon": "devicon-javascript-plain",
-                    "name": "JavaScript"
+                    "icon": "devicon-tailwindcss-plain",
+                    "name": "Tailwind CSS"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg",
-            "github": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg"
+            "image": "/project_4.png",
+            "url": "https://github.com/Matius2002/frontPro",
+            "github": "https://github.com/Matius2002/backend-pro-main"
         }
     ],
     "training": [
@@ -143,22 +144,10 @@
     ],
     "extras": [
         {
-            "image": "/project_2.jpg",
-            "title": "En proceso...",
-            "description": "En proceso...",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg"
-        },
-        {
-            "image": "/project_2.jpg",
-            "title": "En proceso...",
-            "description": "En proceso...",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/SITIO-EN-CONSTRUCCION.jpg"
-        },
-        {
-            "image": "/project_2.jpg",
-            "title": "En proceso...",
-            "description": "En proceso...",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "/project_1.jpg",
+            "title": "Snake Game",
+            "description": "Este juego fue creado con el propósito de reforzar conocimientos y desarrollar habilidades lógicas.",
+            "url": "https://matius2002.github.io/"
         }
     ]
 }
