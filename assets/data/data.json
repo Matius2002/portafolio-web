@@ -4,7 +4,7 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Mateo Alejandro Mora Hernández",
-    "skill": "Ingeniero de Sistemas, Tecnico en Sistemas, Desarrollador Backend y Arquitecto de Software.",
+    "skill": "Ingeniero de Sistemas, Tecnico en Sistemas, Desarrollador Backend y Arquitecto de Software",
     "location": "Girardot, Cundinamarca, Colombia",
     "media": {
         "email": "mateoalejandromorahernandez@gmail.com",
@@ -12,27 +12,39 @@
         "github": "https://github.com/Matius2002",
         "likedin": "https://www.linkedin.com/in/mateo-alejandro-mora-hern%C3%A1ndez-49a2b520a"
     },
-    "about": "Soy Ingeniero de Sistemas y Técnico en Sistemas de Colombia, con una fuerte pasión por el desarrollo backend y la arquitectura de software. Actualmente me desempeño como desarrollador backend y me encuentro en proceso de formación como arquitecto de software, profundizando en el diseño de sistemas, buenas prácticas de desarrollo y automatización de procesos. Me especializo en construir soluciones robustas, escalables y seguras que resuelven problemas reales y aportan valor a los proyectos, siempre con un enfoque en la eficiencia y la calidad del código.\n\nTrabajo principalmente con tecnologías como Java, Spring Boot, y bases de datos PostgreSQL y MySQL. Tengo experiencia implementando Spring Security con JWT para garantizar la seguridad de las aplicaciones, desarrollando APIs RESTful y explorando GraphQL para una gestión más flexible de los datos. Además, aplico pruebas automatizadas con JUnit y Mockito, y utilizo herramientas como Docker, Maven y Jenkins para asegurar procesos de integración y despliegue continuo. Me motiva el aprendizaje constante y el trabajo en equipo orientado a resultados, con el objetivo de seguir creciendo como profesional en el área de arquitectura de software.**",
+    "about": "Soy Ingeniero de Sistemas y Técnico en Sistemas de Colombia, con una fuerte pasión por el desarrollo backend y la arquitectura de software. Actualmente me desempeño como desarrollador backend y me encuentro en proceso de formación como arquitecto de software, profundizando en el diseño de sistemas, buenas prácticas de desarrollo y automatización de procesos. Me especializo en construir soluciones robustas, escalables y seguras que resuelven problemas reales y aportan valor a los proyectos, siempre con un enfoque en la eficiencia y la calidad del código.\n\nTrabajo principalmente con tecnologías como Java, Spring Boot, y bases de datos PostgreSQL y MySQL. Tengo experiencia implementando Spring Security con JWT para garantizar la seguridad de las aplicaciones, desarrollando APIs RESTful y explorando GraphQL para una gestión más flexible de los datos. Además, aplico pruebas automatizadas con JUnit y Mockito, y utilizo herramientas como Docker, Maven y Jenkins para asegurar procesos de integración y despliegue continuo. Me motiva el aprendizaje constante y el trabajo en equipo orientado a resultados, con el objetivo de seguir creciendo como profesional en el área de arquitectura de software.",
     "technologies": [
         {
-            "icon": "devicon-excel-plain",
-            "name": "Excel"
+            "icon": "devicon-java-plain colored",
+            "name": "Java"
         },
         {
-            "icon": "devicon-sql-plain",
-            "name": "SQL"
+            "icon": "devicon-spring-plain colored",
+            "name": "Spring Boot"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-postgresql-plain colored",
+            "name": "PostgreSQL"
         },
         {
-            "icon": "devicon-powerbi-plain",
-            "name": "Power BI"
+            "icon": "devicon-mysql-plain colored",
+            "name": "MySQL"
         },
         {
-            "icon": "devicon-git-plain",
-            "name": "Git"
+            "icon": "devicon-graphql-plain colored",
+            "name": "GraphQL"
+        },
+        {
+            "icon": "devicon-docker-plain colored",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-maven-plain-wordmark colored",
+            "name": "Maven"
+        },
+        {
+            "icon": "devicon-jenkins-plain colored",
+            "name": "Jenkins"
         }
     ],
     "experience": [
