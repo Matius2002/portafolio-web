@@ -10,7 +10,7 @@ def about(description: list[str]) -> rx.Component:
                 paragraph,
                 text_align="justify",         # Justifica el texto
                 margin_bottom="1em",          # Espacio entre párrafos
-                font_size="0.9em",            # Opcional: tamaño de fuente más cómodo
+                font_size="1em",            # Opcional: tamaño de fuente más cómodo
                 width="100%",                 # Opcional: adapta al contenedor
                 max_width="800px",            # Opcional: limita el ancho para mejor lectura
             )
