@@ -1,8 +1,6 @@
 import reflex as rx
 from portafolio.data import Extra
-
 from portafolio.styles.styles import IMAGE_HEIGHT, Size
-
 
 def card_detail(extra: Extra) -> rx.Component:
     return rx.card(
@@ -21,9 +19,10 @@ def card_detail(extra: Extra) -> rx.Component:
                 extra.description,
                 size=Size.SMALL.value,
                 color_scheme="gray"
-            )
+            ),
+            href=extra.url,     # ← Mueve href aquí
+            is_external=True,   # ← Y también este
+            target="_blank"     # ← Esto para abrir en nueva pestaña
         ),
         width="100%",
-        href=extra.url,
-        is_external=True
     )
