@@ -12,7 +12,7 @@
         "github": "https://github.com/Matius2002",
         "likedin": "https://www.linkedin.com/in/mateo-alejandro-mora-hern%C3%A1ndez-49a2b520a"
     },
-    "about": "!Hola¡ Soy un desarrollador backend colombiano de 23 años, ingeniero de sistemas egresado de la Universidad Piloto de Colombia y técnico en sistemas del SENA. Me especializo en el desarrollo de soluciones escalables con Java y Spring Boot, y también manejo otros lenguajes de programación. Actualmente brindo soporte TI de nivel 2, lo que me ha permitido fortalecer mis habilidades técnicas y mi capacidad de resolución de problemas en entornos reales.\n\nTengo nivel de inglés B2, buen manejo de herramientas ofimáticas y estoy en proceso de formación como arquitecto de software. Me apasiona escribir código limpio, aprender nuevas tecnologías y participar en proyectos desafiantes. El deporte es parte importante de mi vida, ya que me ayuda a mantener el enfoque y la disciplina en mi crecimiento profesional.",
+    "about": "!Hola¡ Soy un desarrollador backend colombiano de 23 años, Ingeniero de Sistemas egresado de la Universidad Piloto de Colombia y Técnico en Sistemas del SENA. Me especializo en el desarrollo de soluciones escalables con Java, Spring Boot y también manejo otros lenguajes de programación. Tambien brindo soporte TI de nivel 2.\n\nTengo nivel de inglés B2, buen manejo de herramientas ofimáticas y estoy en proceso de formación como arquitecto de software. Me apasiona escribir código limpio, aprender nuevas tecnologías y participar en proyectos desafiantes. El deporte es parte importante en mi vida, ya que me ayuda a mantener el enfoque y la disciplina en mi crecimiento profesional.",
     "technologies": [
         {
             "icon": "devicon-java-plain colored",
@@ -49,18 +49,18 @@
     ],
     "experience": [
         {
-            "icon": "terminal",
+            "icon": "handshake",
             "title": "Practicante Universitario",
             "subtitle": "Desarrollo de Software y Soporte TI N2",
             "description": "Participé en el desarrollo de un sistema de novedades tecnológicas utilizando el siguiente stack tecnológico: Angular para el frontend, Spring Boot para la lógica del backend, Tailwind CSS para un diseño responsivo y estético, y PostgreSQL como sistema gestor de bases de datos. El sistema permitió el registro, seguimiento y gestión de novedades para el área de sistemas.",
-            "date": "2024"
+            "date": "Feb - Jul 2024"
         },
         {
-            "icon": "rabbit",
+            "icon": "hammer",
             "title": "Freelance",
             "subtitle": "Desarrollador FullSctak y Soporte Técnico",
             "description": "Diseñé y desarrollé aplicaciones de escritorio personalizadas utilizando Spring Boot (Java). También creé páginas web estáticas con un enfoque en la funcionalidad, limpieza visual y accesibilidad, empleando tecnologías como HTML5, CSS3 y JavaScript. Además, brindé asesoramiento integral al cliente durante todo el proceso de desarrollo: análisis de requerimientos, prototipado, entrega y soporte técnico posterior.",
-            "date": "2023 - Actualidad"
+            "date": "Ene 2023 - Ene 2024"
         }
     ],
     "projects": [
@@ -151,7 +151,7 @@
             "subtitle": "Escuela",
             "description": "Estas primeras experiencias educativas fomentaron mi capacidad para resolver problemas, comunicarme efectivamente y adaptarme a nuevos retos, habilidades que posteriormente fortalecí y apliqué en el campo de la programación web. La disciplina y la organización que desarrollé desde pequeño han sido pilares para mi crecimiento profesional y para el aprendizaje constante en el mundo tecnológico.",
             "date": "2008 - 2012",
-            "certificate": ""
+            "certificate": "Hola"
         }
     ],
     "extras": [
@@ -160,6 +160,12 @@
             "title": "Snake Game",
             "description": "Este juego fue creado con el propósito de reforzar conocimientos y desarrollar habilidades lógicas.",
             "url": "https://matius2002.github.io"
+        },
+        {
+            "image": "/project_5.jpg",
+            "title": "En Proceso",
+            "description": "Esto esta en proceso",
+            "url": ""
         }
     ]
 }

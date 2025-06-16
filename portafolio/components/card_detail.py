@@ -19,7 +19,7 @@ def card_detail(extra: Extra) -> rx.Component:
                 extra.description,
                 size=Size.SMALL.value,
                 color_scheme="gray"
-            ),
+            ),  
             href=extra.url,     # ← Mueve href aquí
             is_external=True,   # ← Y también este
             target="_blank"     # ← Esto para abrir en nueva pestaña

@@ -14,7 +14,8 @@ def info_detail(info: Info) -> rx.Component:
                 rx.text(
                     info.description,
                     size=Size.SMALL.value,
-                    color_scheme="gray"
+                    color_scheme="gray",
+                    text_align="justify" #Justificación del texto de Experiencia.
                 ),
                 #Inicio donde se cambio por el de despues
                 rx.flex(
