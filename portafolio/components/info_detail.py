@@ -57,10 +57,11 @@ def info_detail(info: Info) -> rx.Component:
             info.image != "",
             rx.image(
                 src=info.image,
-                height=IMAGE_HEIGHT,
-                width="auto",
+                height="200px",
+                width="350px",
                 border_radius=EmSize.DEFAULT.value,
-                object_fit="cover"
+                object_fit="cover",
+                box_shadow="lg"
             )
         ),
         rx.vstack(
