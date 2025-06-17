@@ -53,7 +53,7 @@
             "title": "Practicante Universitario",
             "subtitle": "Desarrollo de Software y Soporte TI N2",
             "description": "Participé en el desarrollo de un sistema de novedades tecnológicas utilizando el siguiente stack tecnológico: Angular para el frontend, Spring Boot para la lógica del backend, Tailwind CSS para un diseño responsivo y estético, y PostgreSQL como sistema gestor de bases de datos. El sistema permitió el registro, seguimiento y gestión de novedades para el área de sistemas.",
-            "date": "Feb - Jul 2024"
+            "date": "Feb 2024 - Jul 2024"
         },
         {
             "icon": "hammer",
@@ -65,7 +65,7 @@
     ],
     "projects": [
         {
-            "icon": "gamepad",
+            "icon": "binoculars",
             "title": "TuristExplor",
             "subtitle": "Promoción de zonas turisticas en Girardot, Cundinamarca",
             "description": "TuristExplor es un proyecto desarrollado como trabajo de grado bajo la metodología ágil XP, con el objetivo de promover las zonas turísticas de Girardot, Cundinamarca (Colombia). La solución incluye un mapa interactivo, sistema de comentarios y calificaciones, panel administrativo, sección de noticias y categorización de destinos. Fue construido con Angular (frontend), Spring Boot (backend), PostgreSQL y desplegado en AWS. Proyecto realizado entre 2023 y 2024 junto a mi colega Mateo Rico Hernández.",
@@ -92,7 +92,7 @@
             "github": "https://github.com/Matius2002/BackTuristExplor"
         },
         {
-            "icon": "bug-off",
+            "icon": "hospital",
             "title": "Junical Medical S.A.S",
             "subtitle": "Gestión de incidencias tecnologícas",
             "description": "Sistema Web para Gestión de Incidencias – Clínica Juncial Medical S.A.S. Diseñé e implementé un sistema web para centralizar el registro de incidencias tecnológicas, reemplazando el uso informal de WhatsApp y mejorando la trazabilidad, privacidad y comunicación. Tecnologías: Angular, Spring Boot, PostgreSQL, Tailwind CSS.",
@@ -120,7 +120,7 @@
     ],
     "training": [
         {
-            "icon": "backpack",
+            "icon": "university",
             "title": "Universidad Piloto de Colombia",
             "subtitle": "Universidad",
             "description": "Durante mi formación profesional, adquirí competencias sólidas en desarrollo de software, bases de datos, arquitectura de sistemas y gestión de proyectos. Desarrollé habilidades técnicas en tecnologías como Angular, Spring Boot, Java, TypeScript, HTML/CSS, PostgreSQL y herramientas de control de versiones como Git. Mi proyecto de grado, TuritExplor, consistió en una plataforma web diseñada para promover las zonas turísticas del municipio de Girardot. La plataforma integra mapas interactivos, imágenes, descripciones, opiniones y calificaciones de usuarios, además de contar con un panel administrativo que permite la gestión de contenido por parte de usuarios con rol de administrador.",
@@ -128,15 +128,15 @@
             "certificate": "https://drive.google.com/file/d/1RVlWi7sj6WKNlFqt5K2gnwQ8lVpHP_1z/view?usp=sharing"
         },
         {
-            "icon": "graduation-cap",
+            "icon": "landmark",
             "title": "Servicio Nacional de Aprendizaje(SENA)",
-            "subtitle": "Centro de formacion publico",
+            "subtitle": "Centro de Formación Publico",
             "description": "Durante mi formación como Técnico en Sistemas en el SENA, adquirí conocimientos sólidos en la instalación, configuración y mantenimiento de equipos de cómputo, redes básicas y soporte técnico. Participé en prácticas enfocadas en la resolución de problemas informáticos, fortaleciendo mis habilidades en diagnóstico de fallas, manejo de software y atención al usuario. Esta experiencia me permitió desarrollar una base técnica sólida y un enfoque proactivo para enfrentar retos tecnológicos.",
             "date": "2017 - 2018",
             "certificate": "https://drive.google.com/file/d/1CGvXsNU2HzSbrDVwvTODlZJGGk64Slyq/view?usp=sharing"
         },
         {
-            "icon": "graduation-cap",
+            "icon": "school",
             "title": "Institución Educativa Policarpa Salavarrieta",
             "subtitle": "Colegio",
             "description": "Culminé mis estudios de secundaria en la Institución Educativa Policarpa Salavarrieta, ubicada en Girardot, Cundinamarca, donde cursé desde sexto hasta undécimo grado. Durante este período, desarrollé competencias académicas, valores éticos y habilidades sociales que fortalecieron mi disciplina, responsabilidad y capacidad para el trabajo en equipo. Esta etapa formativa fue fundamental para mi crecimiento personal y para la preparación de mis estudios técnicos y profesionales.",
@@ -144,12 +144,12 @@
             "certificate": "https://drive.google.com/file/d/1MzI5P9hUIL4K6I0o6ujnWEsNuNm3i5l4/view?usp=sharing"
         },
         {
-            "icon": "graduation-cap",
+            "icon": "school",
             "title": "Institución Educativa Ramon Bueno y Jose Triana",
             "subtitle": "Escuela",
             "description": "Estas primeras experiencias educativas fomentaron mi capacidad para resolver problemas, comunicarme efectivamente y adaptarme a nuevos retos, habilidades que posteriormente fortalecí y apliqué en el campo de la programación web. La disciplina y la organización que desarrollé desde pequeño han sido pilares para mi crecimiento profesional y para el aprendizaje constante en el mundo tecnológico.",
             "date": "2008 - 2012",
-            "certificate": "Hola"
+            "certificate": ""
         }
     ],
     "extras": [
