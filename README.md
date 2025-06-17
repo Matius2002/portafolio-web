@@ -20,6 +20,19 @@ Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acc
 
 - reflex run
 
+# Proyecto
+"SOBRE MÍ"
+![Logo del proyecto](assets/promt_1.JPG)
+
+"PROYECTOS"
+![Logo del proyecto](assets/promt_2.JPG)
+
+"FORMACIÓN"
+![Logo del proyecto](assets/promt_3.JPG)
+
+"EXTRA"
+![Logo del proyecto](assets/promt_4.JPG)
+
 # Creditos
 
 Este proyecto está inspirado en el trabajo de [@mouredev](https://github.com/mouredev), quien comparte excelentes retos de programación.
