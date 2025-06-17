@@ -22,16 +22,16 @@ Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acc
 
 # Proyecto
 "SOBRE MÍ"
-![Logo del proyecto](assets/promt_1.JPG)
+![Captura de la aplicación](assets/promt_1.JPG)
 
 "PROYECTOS"
-![Logo del proyecto](assets/promt_2.JPG)
+![Captura de la aplicación](assets/promt_2.JPG)
 
 "FORMACIÓN"
-![Logo del proyecto](assets/promt_3.JPG)
+![Captura de la aplicación](assets/promt_3.JPG)
 
 "EXTRA"
-![Logo del proyecto](assets/promt_4.JPG)
+![Captura de la aplicación](assets/promt_4.JPG)
 
 # Creditos
 
