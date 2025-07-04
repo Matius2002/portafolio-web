@@ -4,7 +4,7 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Mateo Alejandro Mora Hernández",
-    "skill": "Ingeniero de Sistemas, Técnico en Sistemas, Desarrollador Backend y Arquitecto de Software",
+    "skill": "Ingeniero de Sistemas, Técnico en Sistemas, Desarrollador Backend, Análisis de Datos y Arquitecto de Software.",
     "location": "Girardot, Cundinamarca, Colombia",
     "media": {
         "email": "mateoalejandromorahernandez@gmail.com",
@@ -123,7 +123,7 @@
             "icon": "university",
             "title": "Universidad Piloto de Colombia",
             "subtitle": "Universidad",
-            "description": "Durante mi formación profesional, adquirí competencias sólidas en desarrollo de software, bases de datos, arquitectura de sistemas y gestión de proyectos. Desarrollé habilidades técnicas en tecnologías como Angular, Spring Boot, Java, TypeScript, HTML/CSS, PostgreSQL y herramientas de control de versiones como Git. Mi proyecto de grado, TuritExplor, consistió en una plataforma web diseñada para promover las zonas turísticas del municipio de Girardot. La plataforma integra mapas interactivos, imágenes, descripciones, opiniones y calificaciones de usuarios, además de contar con un panel administrativo que permite la gestión de contenido por parte de usuarios con rol de administrador.",
+            "description": "Durante mi formación profesional, adquirí competencias sólidas en desarrollo de software, bases de datos, arquitectura de sistemas y gestión de proyectos. Desarrollé habilidades técnicas en tecnologías como Angular, Spring Boot, Java, TypeScript, HTML/CSS, PostgreSQL y herramientas de control de versiones como Git. Mi proyecto de grado, TuristExplor, consistió en una plataforma web diseñada para promover las zonas turísticas del municipio de Girardot. La plataforma integra mapas interactivos, imágenes, descripciones, opiniones y calificaciones de usuarios, además de contar con un panel administrativo que permite la gestión de contenido por parte de usuarios con rol de administrador.",
             "date": "2019 - 2025",
             "certificate": "https://drive.google.com/file/d/1RVlWi7sj6WKNlFqt5K2gnwQ8lVpHP_1z/view?usp=sharing"
         },
@@ -158,12 +158,6 @@
             "title": "Snake Game",
             "description": "Este juego fue creado con el propósito de reforzar conocimientos y desarrollar habilidades lógicas.",
             "url": "https://matius2002.github.io"
-        },
-        {
-            "image": "/project_5.jpg",
-            "title": "En Proceso",
-            "description": "Esto esta en proceso",
-            "url": ""
         }
     ]
 }
