@@ -68,6 +68,7 @@ class Data:
             experience,
             projects,
             training,
+            certification,
             extras
     ):
         self.title = title
@@ -83,6 +84,7 @@ class Data:
         self.experience = [Info(**info) for info in experience]
         self.projects = [Info(**info) for info in projects]
         self.training = [Info(**info) for info in training]
+        self.certification = [Info(**info) for info in certification] #Modificacion
         self.extras = [Extra(**info) for info in extras]
 
 # ---------------------------

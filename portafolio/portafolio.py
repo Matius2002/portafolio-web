@@ -36,6 +36,7 @@ def index() -> rx.Component:
             info("Experiencia", DATA.experience),
             info("Proyectos", DATA.projects),
             info("Formación", DATA.training),
+            info("Certificaciones", DATA.certification),
             extra(DATA.extras),
             rx.divider(),
             footer(DATA.media),

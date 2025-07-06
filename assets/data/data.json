@@ -152,6 +152,48 @@
             "certificate": ""
         }
     ],
+    "certification":[
+        {
+            "icon": "code",
+            "title": "Máster Completo en Java de cero a experto",
+            "subtitle": "Udemy",
+            "description": "Máster en Java de cero a experto 2025 - 121 horas. Curso intensivo en Udemy sobre programación Java moderna, desde fundamentos hasta conceptos avanzados.",
+            "date": "2025",
+            "certificate": "https://drive.google.com/file/d/1a--OjguBct0hYcMP8144SiaN-OgWC---/view?usp=sharing"
+        },
+        {
+            "icon": "code",
+            "title": "FrontEnd Web Developer",
+            "subtitle": "Udemy",
+            "description": "Frontend Web Developer - 30.5 horas. Curso de Udemy orientado al desarrollo web moderno con HTML, CSS, JavaScript y buenas prácticas de frontend.",
+            "date": "2025",
+            "certificate": "https://drive.google.com/file/d/1cr-aQxAbQJV1u-KSfZEzSWbaULUY9ieh/view?usp=sharing"
+        },
+        {
+            "icon": "code",
+            "title": "Fundamentos de ITIL: La mejora de servicios",
+            "subtitle": "Linkedin Learning",
+            "description": "Fundamentos de ITIL - Curso de Linkedin Learning sobre mejora de servicios y gestión eficiente en enotornos TI.",
+            "date": "2025",
+            "certificate": "https://drive.google.com/file/d/182KcduFp86gjVdcSQRNWcWXK20zSDfIX/view?usp=sharing"
+        },
+        {
+            "icon": "chart-candlestick",
+            "title": "Finanzas Basicas Nivel 3",
+            "subtitle": "Universidad Piloto de Colombia",
+            "description": "Finanzas Básicas Nivel III - 16 horas. Curso certificado por la universidad Piloto de Colombia, enfocado en fundamentos financieros y gestión básica.",
+            "date": "2018",
+            "certificate": "https://drive.google.com/file/d/16lVdZFeP5LyFxT4QwjUXaCJuIXZy6uso/view?usp=sharing"
+        },
+        {
+            "icon": "sheet",
+            "title": "Excel Completo de Cero a Avanzado",
+            "subtitle": "Udemy",
+            "description": "Excel TOTAL - De Cero a Avanzado - 37.5 horas. Curso integral de Udemy sobre Excel, desde funciones básicas hasta herramientas avanzadas de análisis.",
+            "date": "2025",
+            "certificate": "https://drive.google.com/file/d/1bDx38nQGhgoYOnGsc1Eizuw2wxkeB5Bg/view?usp=sharing"
+        }
+    ],
     "extras": [
         {
             "image": "/project_1.jpg",
