@@ -21,17 +21,12 @@ Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acc
 - reflex run
 
 # Proyecto
-"SOBRE MÍ"
-![Captura de la aplicación](assets/promt_1.JPG)
-
-"PROYECTOS"
-![Captura de la aplicación](assets/promt_2.JPG)
-
-"FORMACIÓN"
-![Captura de la aplicación](assets/promt_3.JPG)
-
-"EXTRA"
-![Captura de la aplicación](assets/promt_4.JPG)
+![Captura de la aplicación](assets/promt1.JPG)
+![Captura de la aplicación](assets/promt2.JPG)
+![Captura de la aplicación](assets/promt3.JPG)
+![Captura de la aplicación](assets/promt4.JPG)
+![Captura de la aplicación](assets/promt5.JPG)
+![Captura de la aplicación](assets/promt6.JPG)
 
 # Creditos
 
