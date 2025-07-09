@@ -20,13 +20,17 @@ Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acc
 
 - reflex run
 
-# Proyecto
+# Caracturas del Proyecto
 ![Captura de la aplicación](assets/promt1.JPG)
 ![Captura de la aplicación](assets/promt2.JPG)
 ![Captura de la aplicación](assets/promt3.JPG)
 ![Captura de la aplicación](assets/promt4.JPG)
 ![Captura de la aplicación](assets/promt5.JPG)
 ![Captura de la aplicación](assets/promt6.JPG)
+
+# Visualización del proyecto
+
+https://portafolio-gray-apple.reflex.run/
 
 # Creditos
 
